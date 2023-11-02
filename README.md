@@ -22,6 +22,7 @@ Cổng kết nối 9000
 + Listbox những người chơi đang online
 + Listbox cập nhật những người chơi đang chơi
 + Text Area lưu thông tin kết nối đến Server
+
 2.Client:
 + Địa chỉ IP của Server
 + Tên của bạn
